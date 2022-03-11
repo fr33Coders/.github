@@ -1,0 +1,11 @@
+name: Semantic Release
+on:
+  push:
+    branches: [ $default-branch, dev ]
+
+jobs:
+  call-workflow:
+    uses: fr33Coders/.github/.github/workflows/ReusableRelease.yml@main
+    secrets:
+      token: ${{ secrets.GITHUB_TOKEN }}
+
