@@ -1,3 +1,14 @@
+# [1.1.0-dev.4](https://github.com/fr33Coders/.github/compare/v1.1.0-dev.3...v1.1.0-dev.4) (2022-03-11)
+
+
+### Bug Fixes
+
+* cleanup ([d710561](https://github.com/fr33Coders/.github/commit/d71056174e43f5b03af80ace6fe19cb9a735639b))
+* token ([e4d55ac](https://github.com/fr33Coders/.github/commit/e4d55acddb35a3ae6f4754df2481f66cf5944388))
+* token ([19dc53d](https://github.com/fr33Coders/.github/commit/19dc53db2f2efc24365e2d1dd8653508e00141f8))
+* token ([b2c4dec](https://github.com/fr33Coders/.github/commit/b2c4deca42ba96f3efd9638427a4bc633255372f))
+* token for workflows ([0f440eb](https://github.com/fr33Coders/.github/commit/0f440eb492b2744e0b31a7a18a457bd560a25e8d))
+
 # [1.1.0-dev.3](https://github.com/fr33Coders/.github/compare/v1.1.0-dev.2...v1.1.0-dev.3) (2022-03-11)
 
 
