@@ -2,7 +2,7 @@ name: Semantic Release
 on:
   workflow_call:
     secrets:
-      GITHUB:
+      GITHUB_TOKEN:
         required: true
 
 jobs:
@@ -23,5 +23,5 @@ jobs:
         run: npm ci
       - name: Release
         env:
-          GITHUB: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: npx semantic-release
