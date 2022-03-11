@@ -1,3 +1,10 @@
+# [1.1.0-dev.2](https://github.com/fr33Coders/.github/compare/v1.1.0-dev.1...v1.1.0-dev.2) (2022-03-11)
+
+
+### Bug Fixes
+
+* fixed token for ReusableRelease ([52db0a4](https://github.com/fr33Coders/.github/commit/52db0a4cb93f38e77bc3b8d1955c672f3bb0b621))
+
 # [1.1.0-dev.1](https://github.com/fr33Coders/.github/compare/v1.0.2...v1.1.0-dev.1) (2022-03-11)
 
 
