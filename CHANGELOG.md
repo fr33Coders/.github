@@ -1,3 +1,10 @@
+# [1.1.0-dev.3](https://github.com/fr33Coders/.github/compare/v1.1.0-dev.2...v1.1.0-dev.3) (2022-03-11)
+
+
+### Bug Fixes
+
+* fixed token for release-workflow ([014366d](https://github.com/fr33Coders/.github/commit/014366d05be1fa7ffa36f8f169ac47e3321dfd0e))
+
 # [1.1.0-dev.2](https://github.com/fr33Coders/.github/compare/v1.1.0-dev.1...v1.1.0-dev.2) (2022-03-11)
 
 
