@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/fr33Coders/.github/compare/v1.0.1...v1.0.2) (2022-03-11)
+
+
+### Bug Fixes
+
+* updated to use ReusableRelease@main ([3077deb](https://github.com/fr33Coders/.github/commit/3077deb16c8fa597888f3dae5f600f48bdcb799e))
+
 ## [1.0.1](https://github.com/fr33Coders/.github/compare/v1.0.0...v1.0.1) (2022-03-11)
 
 
