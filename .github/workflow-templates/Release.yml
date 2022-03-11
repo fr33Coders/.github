@@ -7,5 +7,5 @@ jobs:
   call-workflow:
     uses: fr33Coders/.github/.github/workflows/ReusableRelease.yml@main
     secrets:
-      GITHUB_TOKEN: ${{ secrets.WORKFLOW_ACCESS_TOKEN }}
+      github-token: ${{ secrets.WORKFLOW_ACCESS_TOKEN }}
 
