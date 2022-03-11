@@ -1,3 +1,10 @@
+# [1.1.0-dev.5](https://github.com/fr33Coders/.github/compare/v1.1.0-dev.4...v1.1.0-dev.5) (2022-03-11)
+
+
+### Bug Fixes
+
+* token ([855f02d](https://github.com/fr33Coders/.github/commit/855f02dbdc896b9f454cb5da1561ca575c222602))
+
 # [1.1.0-dev.4](https://github.com/fr33Coders/.github/compare/v1.1.0-dev.3...v1.1.0-dev.4) (2022-03-11)
 
 
