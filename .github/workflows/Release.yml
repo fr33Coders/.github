@@ -5,7 +5,7 @@ on:
 
 jobs:
   call-workflow:
-    uses: fr33Coders/.github/.github/workflows/ReusableRelease.yml@dev
+    uses: fr33Coders/.github/.github/workflows/ReusableRelease.yml@main
     secrets:
       GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
