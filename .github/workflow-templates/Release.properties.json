@@ -2,6 +2,7 @@
     "name": "ReusableRelease",
     "description": "Uses the ReusableRelease-Workflow",
     "categories": [
-        "Automation"
+        "automation",
+        "php"
     ],
 }
