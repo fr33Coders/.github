@@ -1,3 +1,10 @@
+## [1.1.3](https://github.com/fr33Coders/.github/compare/v1.1.2...v1.1.3) (2022-03-14)
+
+
+### Bug Fixes
+
+* updated categories of workflow-template ([3364592](https://github.com/fr33Coders/.github/commit/3364592e49d4c911577506c0d601579e30350a55))
+
 ## [1.1.2](https://github.com/fr33Coders/.github/compare/v1.1.1...v1.1.2) (2022-03-14)
 
 
