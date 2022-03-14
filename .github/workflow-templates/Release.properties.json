@@ -1,4 +1,11 @@
 {
-    "name": "Release",
-    "description": "Uses the ReusableRelease-Workflow"
+    "name": "ReusableRelease",
+    "description": "Uses the ReusableRelease-Workflow",
+    "categories": [
+        "PHP",
+        "JavaScript",
+        "TypeScript",
+        "HTML",
+        "CSS"
+    ],
 }
