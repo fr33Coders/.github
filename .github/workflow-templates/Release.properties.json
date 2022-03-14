@@ -2,10 +2,6 @@
     "name": "ReusableRelease",
     "description": "Uses the ReusableRelease-Workflow",
     "categories": [
-        "PHP",
-        "JavaScript",
-        "TypeScript",
-        "HTML",
-        "CSS"
+        "Automation"
     ],
 }
