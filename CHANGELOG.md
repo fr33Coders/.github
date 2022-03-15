@@ -1,3 +1,11 @@
+## [1.1.4](https://github.com/fr33Coders/.github/compare/v1.1.3...v1.1.4) (2022-03-15)
+
+
+### Bug Fixes
+
+* fixed path to ReusableRelease.yml ([72ca74b](https://github.com/fr33Coders/.github/commit/72ca74bea2d985fb6c12062c5637aaeafbd145c1))
+* fixed project-structure ([5e21d1e](https://github.com/fr33Coders/.github/commit/5e21d1e8542eab408ed62f5b27e05c9ece986960))
+
 ## [1.1.3](https://github.com/fr33Coders/.github/compare/v1.1.2...v1.1.3) (2022-03-14)
 
 
