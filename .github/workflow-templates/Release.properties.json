@@ -1,8 +1,0 @@
-{
-    "name": "ReusableRelease",
-    "description": "Uses the ReusableRelease-Workflow",
-    "categories": [
-        "automation",
-        "php"
-    ],
-}
